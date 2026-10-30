@@ -1,0 +1,23 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 100 100">
+
+  <rect width="100" height="100"
+        rx="22" fill="#101D32"/>
+
+  <path d="M25 18 H65 L78 31 V82 H25 Z"
+        fill="#F6F0E5"/>
+
+  <path d="M65 18 V31 H78"
+        fill="#B8D9D5"/>
+
+  <text x="51" y="64"
+        text-anchor="middle"
+        font-family="Georgia, serif"
+        font-size="35"
+        font-weight="bold"
+        fill="#10243A">MT</text>
+
+  <rect x="37" y="70" width="27" height="3"
+        rx="1.5" fill="#12B8A6"/>
+</svg>
